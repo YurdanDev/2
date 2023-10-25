@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(78, 149, 242); /* Menambahkan background biru ke seluruh halaman */
+}
+.container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: left;
+    background-color: white; /* Memberi latar belakang putih pada container */
+    padding: 20px;
+    border-radius: 5%; /* Mengatur sudut border untuk tampak lebih baik */
+}
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+}
+button {
+    width: 21%; /* Membuat tombol mengisi lebar container */
+    padding: 5%;
+    margin-top: 5%; /* Menambahkan margin atas untuk tombol */
+    background-color: rgb(64, 151, 239);
+    text-align: center;
+    border-radius: 10%;
+}
